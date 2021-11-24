@@ -3,7 +3,7 @@
 ---
 > Tech Stack : HTML, CSS, JS
 ---
-**Project** running at *[Link]* (https://iamyp01.github.io/team-portfolio/)
+Project running at this => [Link](https://iamyp01.github.io/team-portfolio/)
 ---
 ### Developers
 - Yuvraj Parashar

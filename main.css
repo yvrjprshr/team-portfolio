@@ -36,7 +36,6 @@
     transform: rotateY(180deg);
   }
   
-  
   .card__face {
     position: absolute;
     width: 100%;
